@@ -1,1 +1,1 @@
-CRUD 
+CRUD 게시판
